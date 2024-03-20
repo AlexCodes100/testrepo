@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/testrepo/static/css/main.7153cbba.css",
+    "main.js": "/testrepo/static/js/main.8f7f6d88.js",
+    "index.html": "/testrepo/index.html",
+    "main.7153cbba.css.map": "/testrepo/static/css/main.7153cbba.css.map",
+    "main.8f7f6d88.js.map": "/testrepo/static/js/main.8f7f6d88.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7153cbba.css",
+    "static/js/main.8f7f6d88.js"
+  ]
+}
